@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/ShiwangeeGhosh">
-    
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shiwangee+Ghosh&font=Fira%20Code&center=true&width=400&height=60&color=87CEEB&vCenter=true&pause=100000&size=30" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
