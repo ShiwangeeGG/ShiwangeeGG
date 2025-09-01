@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shiwangee+Ghosh&font=Fira%20Code&center=true&width=400&height=60&color=87CEEB&vCenter=true&pause=100000&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SHIWANGEE+GHOSH&font=Fira%20Code&center=true&width=400&height=60&color=87CEEB&vCenter=true&pause=100000&size=36" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
