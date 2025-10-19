@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/shiwangee-ghosh-2a20982b7"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-       
-  <a href="https://ko-fi.com/your-ko-fi-username"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.linkedin.com/in/shiwangee-ghosh-2a20982b7"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+      
 </p>
