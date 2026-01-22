@@ -33,8 +33,8 @@ _Currently working on:_ Advanced Computer Vision projects, including Healthcare 
 <a href="https://git-scm.com/" title="Git"><img width="50" height="50" alt="icons8-git-50" src="https://github.com/user-attachments/assets/e1a5a503-cc76-452c-9080-f8252a241602"/></a>
 <a href="https://github.com/" title="GitHub"><img width="50" height="50" alt="icons8-github-50" src="https://github.com/user-attachments/assets/839163b7-2f7c-4441-8d8c-5afe05752bd7"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img width="50" height="50" alt="icons8-visual-studio-code-50" src="https://github.com/user-attachments/assets/13d793c8-c7cb-406b-b3f6-40063b5f1ef3" /></a>
-<a href="https://code.visualstudio.com/" title="HTML 5"><img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/193e2cc5-851c-4d15-95ba-8b46cd61db77" /></a>
-<a href="https://code.visualstudio.com/" title="CSS 3"><img width="50" height="50" alt="icons8-css-50" src="https://github.com/user-attachments/assets/b5588055-5023-4726-a07f-d37ff6b11848" /></a>
+<a href="https://html.com/" title="HTML 5"><img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/193e2cc5-851c-4d15-95ba-8b46cd61db77" /></a>
+<a title="CSS 3"><img width="50" height="50" alt="icons8-css-50" src="https://github.com/user-attachments/assets/b5588055-5023-4726-a07f-d37ff6b11848" /></a>
 
 ### Currently Learning:
 
