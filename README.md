@@ -40,7 +40,7 @@ _Currently working on:_ Advanced Computer Vision projects, including Healthcare 
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript ES6"> <img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/3d718a97-8958-45f6-b57c-282f72ecaac9" /></a>
 <a href="https://reactjs.org/" title="React"><img width="50" height="50" alt="icons8-react-50" src="https://github.com/user-attachments/assets/c7510cce-56d6-442e-a314-68bf5c338447" /></a>
-<a href="https://reactjs.org/" title="Node.js"><img width="50" height="50" alt="icons8-nodejs-50" src="https://github.com/user-attachments/assets/657a9ecf-486e-431f-9776-8c6e75576988" /></a>
-<a href="https://reactjs.org/" title="PostgreSQL"><img width="50" height="50" alt="icons8-postgresql-50" src="https://github.com/user-attachments/assets/56e8ae33-f5e2-4929-883b-1e76e996d716" /></a>
+<a href="https://nodejs.org/en/download" title="Node.js"><img width="50" height="50" alt="icons8-nodejs-50" src="https://github.com/user-attachments/assets/657a9ecf-486e-431f-9776-8c6e75576988" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img width="50" height="50" alt="icons8-postgresql-50" src="https://github.com/user-attachments/assets/56e8ae33-f5e2-4929-883b-1e76e996d716" /></a>
 
 
