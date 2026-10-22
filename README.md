@@ -1,46 +1,147 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SHIWANGEE+GHOSH&font=Boldonse&center=true&width=900&height=150&color=87CEEB&vCenter=true&pause=100000000000000000000000&size=50" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=120&section=header&text=SHIWANGEE%20GHOSH&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
+    width="100%"
+    alt="SHIWANGEE GHOSH"
+  />
 </p>
-
+</br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;BE+EXTC+Engineering+Student;Passionate+Classical+Singer;Making+music+with+data&&font=Delicious+Handrawn&family=Jersey+10&display=swap%20Code&center=true&width=800&height=60&color=ffc0cb&vCenter=true&pause=1000&size=40" /></a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=FFDDDD&center=true&vCenter=true&width=700&lines=Building+Learning+Experimenting;EXTC+Engineer;Is+This+a+Feature+or+a+Bug?"
+  />
 </p>
+</br>
 
-
-
+<p align="center">
+  <a href="www.linkedin.com/in/shiwangee-ghosh-2a20982b7">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ghoshshiwangee29@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-D94B3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ShiwangeeGG">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</br>
 
 <p> Hello there!!!👋
   
-I'm a final-year Electronics & Telecommunication student with a passion for Data Science and AI.
-_Currently working on:_ Advanced Computer Vision projects, including Healthcare AI systems for disease detection- PCOS </p>
-
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiwangee-ghosh-2a20982b7"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"/></a>
-  <a href="mailto:piug89@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>
-      
+  I'm Shiwangee Ghosh, an engineering graduate interested in Applied AI,
+  Machine Learning, and Generative AI.
+  <br/>
+  Built some projects, had some breakthroughs, made some questionable debugging decisions.<br/> 
+  Making sense of it all and still figuring things out.
 </p>
 
-
+---
   
-### Technologies & Tools:
+### 🛠️ Tech Stack & Tools:
 
-<a href="https://www.python.org/" title="Python"><img width="50" height="50" alt="icons8-python-50-2" src="https://github.com/user-attachments/assets/3e146e44-2ae0-4ffe-aa84-b90613d04c16" /></a>
-<a href="https://git-scm.com/" title="Git"><img width="50" height="50" alt="icons8-git-50" src="https://github.com/user-attachments/assets/e1a5a503-cc76-452c-9080-f8252a241602"/></a>
-<a href="https://github.com/" title="GitHub"><img width="50" height="50" alt="icons8-github-50" src="https://github.com/user-attachments/assets/839163b7-2f7c-4441-8d8c-5afe05752bd7"/></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img width="50" height="50" alt="icons8-visual-studio-code-50" src="https://github.com/user-attachments/assets/13d793c8-c7cb-406b-b3f6-40063b5f1ef3" /></a>
-<a href="https://html.com/" title="HTML 5"><img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/193e2cc5-851c-4d15-95ba-8b46cd61db77" /></a>
-<a title="CSS 3"><img width="50" height="50" alt="icons8-css-50" src="https://github.com/user-attachments/assets/b5588055-5023-4726-a07f-d37ff6b11848" /></a>
+---
 
-### Currently Learning:
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 Languages</h3>
+      <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/></a>
+      <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/></a>
+      <a href="https://dev.mysql.com/doc/" title="SQL / MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL and MySQL"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI / ML & Data</h3>
+      <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow"/></a>
+      <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn"/></a>
+      <br/>
+      <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20" alt="Pandas"/></a>
+      <a href="https://numpy.org/" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20" alt="NumPy"/></a>
+      <a href="https://catboost.ai/" title="CatBoost"><img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" height="20" alt="CatBoost"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & APIs</h3>
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/></a>
+      <br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" title="REST APIs"><img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" height="20" alt="REST APIs"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🗄️ Databases & Vector Search</h3>
+      <a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/></a>
+      <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/></a>
+      <br/>
+      <a href="https://www.trychroma.com/" title="ChromaDB"><img src="https://img.shields.io/badge/ChromaDB-5B45B4?style=flat-square" height="20" alt="ChromaDB"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Generative AI</h3>
+      <a href="https://ollama.com/" title="Ollama"><img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" height="20" alt="Ollama"/></a>
+      <a href="https://platform.openai.com/docs" title="Embeddings and LLM concepts"><img src="https://img.shields.io/badge/Embeddings-6741D9?style=flat-square" height="20" alt="Embeddings"/></a>
+      <a href="https://python.langchain.com/docs/concepts/rag/" title="Retrieval-Augmented Generation"><img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" height="20" alt="RAG"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔧 Tools & Workflow</h3>
+      <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
+      <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+      <a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript ES6"> <img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/3d718a97-8958-45f6-b57c-282f72ecaac9" /></a>
-<a href="https://reactjs.org/" title="React"><img width="50" height="50" alt="icons8-react-50" src="https://github.com/user-attachments/assets/c7510cce-56d6-442e-a314-68bf5c338447" /></a>
-<a href="https://nodejs.org/en/download" title="Node.js"><img width="50" height="50" alt="icons8-nodejs-50" src="https://github.com/user-attachments/assets/657a9ecf-486e-431f-9776-8c6e75576988" /></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img width="50" height="50" alt="icons8-postgresql-50" src="https://github.com/user-attachments/assets/56e8ae33-f5e2-4929-883b-1e76e996d716" /></a>
+---
 
+### 🚀 Featured Projects:
+---
+
+  A few things I've built.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 Maya — AI-Based PCOS Detection</h3>
+      <p align="center">
+        A multimodal ML system combining patient data and ultrasound images to assess PCOS risk, with model explainability.
+      </p>
+      <p align="center">
+        <strong>Python · CatBoost · TensorFlow · FastAPI</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ShiwangeeGG/Maya-AI-Based-PCOS-Detection-System">
+          <strong>View REPO</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 SafeSpace AI — Fire Safety RAG</h3>
+      <p align="center">
+        An AI assistant for fire safety compliance, using document retrieval, embeddings, and a vector database to build grounded responses.
+      </p>
+      <p align="center">
+        <strong>Python · RAG · ChromaDB · Ollama</strong>
+      </p>
+      <p align="center">
+        <em>In progress</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📊 Retail Sales Forecasting & Inventory Optimization</h3>
+      <p align="center">
+        A Python data science project that forecasts retail demand and calculates inventory metrics such as safety stock, reorder point, and economic order quantity.
+      </p>
+      <p align="center">
+        <strong>Python · Pandas · NumPy · Scikit-learn</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ShiwangeeGG/Retail-Sales-Forecasting-Inventory-Optimization-System">
+          <strong>View REPO</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
